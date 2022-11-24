@@ -1,0 +1,2 @@
+[wordpress]
+192.168.56.20 ansible_pass=vagrant ansible_user=vagrant
